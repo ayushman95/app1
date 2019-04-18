@@ -1,0 +1,22 @@
+.card {
+  border-right: 1px solid #ECEAEA;
+  border-bottom: 1px solid #ECEAEA;
+  display: inline-block;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.26);
+  width: 140px;
+  height: 46px;
+  cursor: pointer;
+}
+
+.active {
+  border: 5px solid #0099FF;
+}
+
+.card-info {
+  font-family: "aktiv-grotesk-std",sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 700;
+  vertical-align: middle;
+  text-align: center;
+}
